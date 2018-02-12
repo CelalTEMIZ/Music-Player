@@ -4,7 +4,7 @@
     - HCS12 Dragon Board
     - Freescale CodeWarrior Development Studio 5.9.0
     
-  - Program implemented with C programming language. 
+  - Program is implemented with C programming language. 
   - Plays songs on PTT5 Buzzer.
   - Control PTH and get the value from PTH.
   - Plays 3 different songs for 15 seconds according to what is selected at the two least significant DIP switches (00, 01, 10, 11).
